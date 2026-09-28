@@ -1,0 +1,506 @@
+Project_ID,Project_Category,Project_Size,Material_Delivery,Weather,Contractor,Milestone,Budget,Workforce,Planned_Progress,Actual_Progress
+PROJ_1001,Bridges & Flyovers,Medium,On-Time,Rainy,Contractor_A,4_MEP_Finishing,151.23,188.0,78.7,65.3
+PROJ_1002,Water Infrastructure,Medium,Slight Delay,Clear,Contractor_A,4_MEP_Finishing,169.71,173.0,86.8,69.2
+PROJ_1003,Metro & Rail,Medium,Severe Delay,Clear,Contractor_D,3_Structural,88.32,263.0,64.6,27.3
+PROJ_1004,Commercial Buildings,Large,Slight Delay,Clear,Contractor_A,5_Handover,575.3,529.0,96.5,84.7
+PROJ_1005,Roads & Highways,Medium,Severe Delay,Clear,Contractor_A,2_Foundation,136.19,312.0,28.1,5.0
+PROJ_1006,Roads & Highways,Small,Slight Delay,Clear,Contractor_C,1_Planning,43.31,66.0,12.6,5.0
+PROJ_1007,Roads & Highways,Large,Slight Delay,Rainy,Contractor_B,5_Handover,743.75,584.0,92.0,68.6
+PROJ_1008,Water Infrastructure,Large,Severe Delay,Rainy,Contractor_C,3_Structural,208.28,815.0,51.3,12.6
+PROJ_1009,Commercial Buildings,Large,On-Time,Rainy,Contractor_A,4_MEP_Finishing,604.74,573.0,78.9,63.1
+PROJ_1010,Metro & Rail,Medium,Slight Delay,Extreme Heat,Contractor_B,5_Handover,58.72,219.0,97.1,80.7
+PROJ_1011,Roads & Highways,Medium,On-Time,Extreme Heat,Contractor_A,1_Planning,132.78,157.0,16.6,11.4
+PROJ_1012,Water Infrastructure,Medium,Severe Delay,Rainy,Contractor_A,5_Handover,93.86,108.0,91.6,62.4
+PROJ_1013,Metro & Rail,Large,Severe Delay,Stormy,Contractor_D,3_Structural,384.76,557.0,52.5,5.0
+PROJ_1014,Roads & Highways,Large,On-Time,Clear,Contractor_A,3_Structural,412.42,957.0,46.3,37.8
+PROJ_1015,Roads & Highways,Small,Slight Delay,Clear,Contractor_B,3_Structural,34.85,49.0,45.5,19.8
+PROJ_1016,Roads & Highways,Small,Severe Delay,Clear,Contractor_B,5_Handover,23.36,82.0,98.4,74.5
+PROJ_1017,Bridges & Flyovers,Medium,On-Time,Rainy,Contractor_B,1_Planning,160.17,219.0,10.4,5.0
+PROJ_1018,Commercial Buildings,Large,Slight Delay,Extreme Heat,Contractor_D,3_Structural,443.31,618.0,53.2,19.1
+PROJ_1019,Bridges & Flyovers,Large,Severe Delay,Clear,Contractor_A,4_MEP_Finishing,241.94,414.0,74.2,45.0
+PROJ_1020,Bridges & Flyovers,Small,On-Time,Stormy,Contractor_C,4_MEP_Finishing,41.35,71.0,87.7,57.5
+PROJ_1021,Commercial Buildings,Medium,Slight Delay,Clear,Contractor_D,4_MEP_Finishing,93.58,194.0,81.6,56.6
+PROJ_1022,Roads & Highways,Medium,On-Time,Stormy,Contractor_C,1_Planning,115.48,257.0,12.3,5.0
+PROJ_1023,Bridges & Flyovers,Large,Severe Delay,Clear,Contractor_D,2_Foundation,611.58,844.0,30.5,5.0
+PROJ_1024,Bridges & Flyovers,Large,Severe Delay,Clear,Contractor_A,3_Structural,400.14,873.0,62.2,29.4
+PROJ_1025,Commercial Buildings,Large,Severe Delay,Clear,Contractor_B,4_MEP_Finishing,234.89,448.0,89.2,59.9
+PROJ_1026,Metro & Rail,Medium,Slight Delay,Clear,Contractor_A,2_Foundation,106.71,278.0,25.2,9.2
+PROJ_1027,Roads & Highways,Medium,Severe Delay,Clear,Contractor_C,2_Foundation,191.72,171.0,37.8,8.4
+PROJ_1028,Commercial Buildings,Small,Severe Delay,Clear,Contractor_D,5_Handover,35.67,87.0,99.4,71.1
+PROJ_1029,Commercial Buildings,Small,On-Time,Extreme Heat,Contractor_A,1_Planning,36.86,63.0,19.2,9.0
+PROJ_1030,Roads & Highways,Large,Severe Delay,Rainy,Contractor_C,5_Handover,579.74,626.0,96.7,61.4
+PROJ_1031,Commercial Buildings,Large,On-Time,Clear,Contractor_A,4_MEP_Finishing,320.2,400.0,83.0,74.9
+PROJ_1032,Roads & Highways,Large,Slight Delay,Rainy,Contractor_C,4_MEP_Finishing,451.58,708.0,78.7,50.1
+PROJ_1033,Roads & Highways,Large,On-Time,Rainy,Contractor_B,2_Foundation,650.81,914.0,35.3,20.5
+PROJ_1034,Water Infrastructure,Medium,On-Time,Clear,Contractor_D,1_Planning,66.1,115.0,15.3,5.0
+PROJ_1035,Water Infrastructure,Large,On-Time,Clear,Contractor_C,4_MEP_Finishing,367.43,835.0,83.9,69.8
+PROJ_1036,Metro & Rail,Large,Slight Delay,Clear,Contractor_B,4_MEP_Finishing,366.52,434.0,79.1,62.2
+PROJ_1037,Bridges & Flyovers,Large,On-Time,Clear,Contractor_A,4_MEP_Finishing,459.78,988.0,84.9,77.3
+PROJ_1038,Roads & Highways,Small,Slight Delay,Rainy,Contractor_A,1_Planning,49.21,69.0,18.2,5.0
+PROJ_1039,Commercial Buildings,Medium,On-Time,Clear,Contractor_A,4_MEP_Finishing,61.06,172.0,73.8,62.8
+PROJ_1040,Bridges & Flyovers,Small,On-Time,Rainy,Contractor_A,4_MEP_Finishing,30.75,69.0,86.8,70.0
+PROJ_1041,Roads & Highways,Large,Slight Delay,Rainy,Contractor_D,4_MEP_Finishing,308.44,586.0,81.3,47.0
+PROJ_1042,Commercial Buildings,Medium,Slight Delay,Clear,Contractor_C,4_MEP_Finishing,195.63,156.0,87.0,62.2
+PROJ_1043,Roads & Highways,Small,On-Time,Rainy,Contractor_B,4_MEP_Finishing,14.53,52.0,79.2,56.8
+PROJ_1044,Water Infrastructure,Medium,Slight Delay,Clear,Contractor_A,3_Structural,111.14,204.0,52.0,38.2
+PROJ_1045,Bridges & Flyovers,Medium,Severe Delay,Stormy,Contractor_D,1_Planning,160.94,239.0,19.2,5.0
+PROJ_1046,Commercial Buildings,Medium,Slight Delay,Clear,Contractor_C,3_Structural,155.98,210.0,48.3,24.4
+PROJ_1047,Bridges & Flyovers,Small,On-Time,Extreme Heat,Contractor_A,1_Planning,26.91,93.0,18.4,14.4
+PROJ_1048,Commercial Buildings,Medium,On-Time,Rainy,Contractor_C,3_Structural,102.63,236.0,55.0,33.0
+PROJ_1049,Commercial Buildings,Medium,Severe Delay,Clear,Contractor_B,3_Structural,110.24,193.0,55.9,21.8
+PROJ_1050,Roads & Highways,Large,On-Time,Rainy,Contractor_A,1_Planning,359.3,918.0,13.1,5.0
+PROJ_1051,Water Infrastructure,Medium,Severe Delay,Stormy,Contractor_B,2_Foundation,81.59,160.0,31.9,5.0
+PROJ_1052,Metro & Rail,Large,Slight Delay,Rainy,Contractor_B,1_Planning,490.34,389.0,13.3,5.0
+PROJ_1053,Water Infrastructure,Medium,Severe Delay,Extreme Heat,Contractor_A,4_MEP_Finishing,91.01,128.0,71.7,42.4
+PROJ_1054,Water Infrastructure,Medium,Slight Delay,Extreme Heat,Contractor_D,5_Handover,93.83,149.0,93.4,69.8
+PROJ_1055,Commercial Buildings,Large,Severe Delay,Clear,Contractor_D,1_Planning,594.4,770.0,10.1,5.0
+PROJ_1056,Water Infrastructure,Medium,On-Time,Clear,Contractor_C,5_Handover,195.31,225.0,99.8,90.9
+PROJ_1057,Roads & Highways,Small,Slight Delay,Rainy,Contractor_B,3_Structural,34.15,42.0,69.0,35.0
+PROJ_1058,Roads & Highways,Small,On-Time,Clear,Contractor_B,2_Foundation,13.08,65.0,28.5,11.6
+PROJ_1059,Roads & Highways,Large,Slight Delay,Extreme Heat,Contractor_C,1_Planning,246.27,451.0,17.3,5.0
+PROJ_1060,Bridges & Flyovers,Medium,Slight Delay,Stormy,Contractor_B,3_Structural,192.76,126.0,51.0,18.1
+PROJ_1061,Bridges & Flyovers,Medium,Severe Delay,Clear,Contractor_A,4_MEP_Finishing,95.3,186.0,83.8,57.2
+PROJ_1062,Bridges & Flyovers,Small,Severe Delay,Clear,Contractor_B,4_MEP_Finishing,13.68,33.0,86.3,53.0
+PROJ_1063,Metro & Rail,Small,Slight Delay,Extreme Heat,Contractor_D,1_Planning,33.96,93.0,19.5,5.0
+PROJ_1064,Bridges & Flyovers,Small,On-Time,Clear,Contractor_B,1_Planning,34.95,67.0,14.0,5.3
+PROJ_1065,Bridges & Flyovers,Medium,On-Time,Extreme Heat,Contractor_A,3_Structural,147.63,227.0,63.7,49.6
+PROJ_1066,Commercial Buildings,Medium,Slight Delay,Clear,Contractor_C,2_Foundation,90.84,188.0,26.1,7.0
+PROJ_1067,Roads & Highways,Medium,On-Time,Rainy,Contractor_A,2_Foundation,53.25,,39.8,27.8
+PROJ_1068,Metro & Rail,Medium,On-Time,Clear,Contractor_A,2_Foundation,194.79,220.0,21.5,18.2
+PROJ_1069,Roads & Highways,Large,On-Time,Rainy,Contractor_A,4_MEP_Finishing,351.28,821.0,82.5,65.9
+PROJ_1070,Water Infrastructure,Medium,On-Time,Clear,Contractor_B,5_Handover,151.73,122.0,96.9,90.0
+PROJ_1071,Metro & Rail,Medium,On-Time,Rainy,Contractor_C,3_Structural,156.29,230.0,61.0,37.0
+PROJ_1072,Roads & Highways,Large,On-Time,Clear,Contractor_B,5_Handover,566.39,381.0,92.1,86.2
+PROJ_1073,Roads & Highways,Medium,On-Time,Rainy,Contractor_A,2_Foundation,97.62,219.0,38.8,23.4
+PROJ_1074,Metro & Rail,Medium,On-Time,Extreme Heat,Contractor_D,3_Structural,91.39,111.0,46.3,26.1
+PROJ_1075,Metro & Rail,Large,Severe Delay,Clear,Contractor_D,2_Foundation,559.0,652.0,32.8,5.0
+PROJ_1076,Metro & Rail,Large,On-Time,Clear,Contractor_D,3_Structural,719.79,446.0,47.5,32.0
+PROJ_1077,Metro & Rail,Small,On-Time,Clear,Contractor_A,5_Handover,47.87,91.0,93.8,87.9
+PROJ_1078,Roads & Highways,Large,Slight Delay,Rainy,Contractor_B,3_Structural,264.44,803.0,56.8,27.8
+PROJ_1079,Bridges & Flyovers,Medium,On-Time,Rainy,Contractor_D,3_Structural,74.07,292.0,53.1,28.7
+PROJ_1080,Roads & Highways,Small,Severe Delay,Rainy,Contractor_C,3_Structural,47.79,39.0,45.6,5.0
+PROJ_1081,Water Infrastructure,Medium,Slight Delay,Clear,Contractor_A,1_Planning,160.74,268.0,11.7,5.0
+PROJ_1082,Commercial Buildings,Large,On-Time,Clear,Contractor_A,5_Handover,729.91,478.0,94.8,94.2
+PROJ_1083,Bridges & Flyovers,Medium,On-Time,Rainy,Contractor_B,3_Structural,81.19,338.0,63.0,42.0
+PROJ_1084,Roads & Highways,Medium,Severe Delay,Clear,Contractor_D,3_Structural,138.55,252.0,67.0,35.0
+PROJ_1085,Bridges & Flyovers,Medium,Severe Delay,Stormy,Contractor_B,3_Structural,155.47,199.0,43.4,5.0
+PROJ_1086,Bridges & Flyovers,Small,Slight Delay,,Contractor_B,3_Structural,37.2,73.0,52.4,23.1
+PROJ_1087,Metro & Rail,Small,Slight Delay,Rainy,Contractor_A,1_Planning,26.33,89.0,11.0,5.0
+PROJ_1088,Commercial Buildings,Small,On-Time,Clear,Contractor_C,4_MEP_Finishing,10.62,91.0,71.3,59.6
+PROJ_1089,Water Infrastructure,Small,Severe Delay,Clear,Contractor_D,2_Foundation,33.32,46.0,33.6,5.0
+PROJ_1090,Commercial Buildings,Small,On-Time,Rainy,Contractor_B,4_MEP_Finishing,20.12,94.0,82.4,60.3
+PROJ_1091,Roads & Highways,Small,Severe Delay,Rainy,Contractor_C,4_MEP_Finishing,28.01,86.0,74.1,38.8
+PROJ_1092,Metro & Rail,Medium,Slight Delay,Stormy,Contractor_D,4_MEP_Finishing,193.68,283.0,75.4,40.5
+PROJ_1093,Metro & Rail,Small,Slight Delay,Clear,Contractor_A,3_Structural,25.96,82.0,41.7,19.7
+PROJ_1094,Commercial Buildings,Medium,Slight Delay,Clear,Contractor_B,3_Structural,176.13,284.0,65.2,40.5
+PROJ_1095,Metro & Rail,Large,On-Time,Rainy,Contractor_A,1_Planning,313.94,576.0,19.7,9.9
+PROJ_1096,Commercial Buildings,Medium,On-Time,Rainy,Contractor_C,4_MEP_Finishing,151.2,109.0,73.6,55.1
+PROJ_1097,Commercial Buildings,Medium,On-Time,Clear,Contractor_C,2_Foundation,196.57,122.0,25.4,10.2
+PROJ_1098,Bridges & Flyovers,Small,On-Time,Clear,Contractor_C,3_Structural,14.08,42.0,66.2,42.0
+PROJ_1099,Roads & Highways,Small,Slight Delay,Clear,Contractor_C,2_Foundation,10.33,77.0,38.6,13.2
+PROJ_1100,Roads & Highways,Small,On-Time,Extreme Heat,Contractor_B,1_Planning,27.34,47.0,14.2,5.0
+PROJ_1101,Roads & Highways,Small,On-Time,,Contractor_D,3_Structural,13.71,69.0,42.5,18.6
+PROJ_1102,Commercial Buildings,Small,Severe Delay,Clear,Contractor_B,1_Planning,39.94,46.0,10.4,5.0
+PROJ_1103,Bridges & Flyovers,Small,Severe Delay,Clear,Contractor_A,4_MEP_Finishing,46.58,44.0,81.9,49.2
+PROJ_1104,Commercial Buildings,Small,Severe Delay,Clear,Contractor_C,2_Foundation,27.36,44.0,28.5,5.0
+PROJ_1105,Water Infrastructure,Small,Severe Delay,Clear,Contractor_C,1_Planning,20.35,92.0,10.3,5.0
+PROJ_1106,Roads & Highways,Medium,On-Time,Rainy,Contractor_B,3_Structural,115.73,347.0,57.9,40.1
+PROJ_1107,Bridges & Flyovers,Small,On-Time,Clear,Contractor_D,1_Planning,38.94,68.0,10.1,5.0
+PROJ_1108,Metro & Rail,Medium,Slight Delay,Extreme Heat,Contractor_D,2_Foundation,52.35,113.0,36.0,10.4
+PROJ_1109,Roads & Highways,Medium,Slight Delay,Clear,Contractor_A,4_MEP_Finishing,138.83,181.0,76.8,58.4
+PROJ_1110,Roads & Highways,Medium,On-Time,Rainy,Contractor_D,1_Planning,142.38,132.0,10.4,5.0
+PROJ_1111,Bridges & Flyovers,Small,Severe Delay,Extreme Heat,Contractor_A,4_MEP_Finishing,35.51,38.0,82.2,49.4
+PROJ_1112,Roads & Highways,Large,On-Time,Rainy,Contractor_A,1_Planning,345.97,390.0,14.0,5.0
+PROJ_1113,Water Infrastructure,Medium,On-Time,Rainy,Contractor_A,2_Foundation,157.39,248.0,39.5,27.6
+PROJ_1114,Metro & Rail,Small,Slight Delay,Clear,Contractor_D,4_MEP_Finishing,13.66,92.0,81.3,59.4
+PROJ_1115,Commercial Buildings,Large,Slight Delay,Clear,Contractor_C,2_Foundation,320.36,778.0,26.2,6.5
+PROJ_1116,Water Infrastructure,Large,Slight Delay,Rainy,Contractor_A,1_Planning,726.6,388.0,17.1,5.0
+PROJ_1117,Metro & Rail,Small,On-Time,Stormy,Contractor_B,3_Structural,39.55,89.0,48.9,27.6
+PROJ_1118,Roads & Highways,Small,Severe Delay,Rainy,Contractor_C,2_Foundation,10.55,77.0,38.2,5.0
+PROJ_1119,Water Infrastructure,Large,On-Time,Rainy,Contractor_A,4_MEP_Finishing,349.78,368.0,78.1,60.8
+PROJ_1120,Commercial Buildings,Medium,On-Time,Rainy,Contractor_D,2_Foundation,82.95,244.0,31.4,10.2
+PROJ_1121,Metro & Rail,Small,Severe Delay,Clear,Contractor_D,4_MEP_Finishing,20.83,84.0,72.0,37.2
+PROJ_1122,Water Infrastructure,Small,Severe Delay,Clear,Contractor_B,5_Handover,19.9,68.0,94.8,67.4
+PROJ_1123,Bridges & Flyovers,Medium,Severe Delay,Rainy,Contractor_D,3_Structural,60.32,296.0,65.1,20.6
+PROJ_1124,Roads & Highways,Medium,Severe Delay,Stormy,Contractor_B,5_Handover,119.38,287.0,98.3,62.8
+PROJ_1125,Roads & Highways,Medium,Slight Delay,Clear,Contractor_D,3_Structural,160.18,189.0,47.5,24.9
+PROJ_1126,Bridges & Flyovers,Medium,Slight Delay,Rainy,Contractor_C,5_Handover,141.4,324.0,93.0,65.6
+PROJ_1127,Metro & Rail,Medium,On-Time,Clear,Contractor_C,1_Planning,151.26,162.0,18.2,8.3
+PROJ_1128,Water Infrastructure,Medium,On-Time,Rainy,Contractor_A,4_MEP_Finishing,63.09,332.0,88.7,72.6
+PROJ_1129,Roads & Highways,Small,On-Time,Clear,Contractor_D,3_Structural,48.06,42.0,43.8,19.3
+PROJ_1130,Commercial Buildings,Small,On-Time,Clear,Contractor_B,3_Structural,43.54,35.0,54.1,34.0
+PROJ_1131,Bridges & Flyovers,Medium,Slight Delay,Extreme Heat,Contractor_A,3_Structural,170.96,311.0,50.8,28.4
+PROJ_1132,Roads & Highways,Large,Slight Delay,Clear,Contractor_A,4_MEP_Finishing,693.97,939.0,87.5,68.7
+PROJ_1133,Roads & Highways,Medium,On-Time,Rainy,Contractor_C,1_Planning,189.97,349.0,10.8,5.0
+PROJ_1134,Bridges & Flyovers,Medium,On-Time,Extreme Heat,Contractor_B,2_Foundation,132.09,288.0,25.0,11.4
+PROJ_1135,Water Infrastructure,Small,Slight Delay,Stormy,Contractor_C,4_MEP_Finishing,18.01,43.0,85.3,45.7
+PROJ_1136,Bridges & Flyovers,Medium,On-Time,Clear,Contractor_D,4_MEP_Finishing,142.9,195.0,72.0,54.6
+PROJ_1137,Commercial Buildings,Medium,Severe Delay,Clear,Contractor_A,5_Handover,161.69,154.0,95.4,74.9
+PROJ_1138,Metro & Rail,Small,Slight Delay,Clear,Contractor_C,4_MEP_Finishing,39.52,33.0,79.4,51.8
+PROJ_1139,Bridges & Flyovers,Small,Slight Delay,Stormy,Contractor_A,5_Handover,30.86,68.0,94.0,65.7
+PROJ_1140,Water Infrastructure,Medium,Slight Delay,Stormy,Contractor_D,4_MEP_Finishing,61.2,172.0,78.5,42.8
+PROJ_1141,Water Infrastructure,Small,Severe Delay,Rainy,Contractor_D,2_Foundation,24.84,54.0,31.1,5.0
+PROJ_1142,Bridges & Flyovers,Medium,On-Time,Extreme Heat,Contractor_B,1_Planning,188.19,177.0,11.6,5.7
+PROJ_1143,Commercial Buildings,Small,Slight Delay,Rainy,Contractor_C,4_MEP_Finishing,33.38,61.0,81.9,43.7
+PROJ_1144,Bridges & Flyovers,Medium,Slight Delay,,Contractor_B,3_Structural,131.21,287.0,64.4,33.7
+PROJ_1145,Bridges & Flyovers,Small,On-Time,Clear,Contractor_B,1_Planning,20.75,92.0,17.6,8.8
+PROJ_1146,Roads & Highways,Large,Severe Delay,Extreme Heat,Contractor_D,3_Structural,421.7,772.0,45.5,7.9
+PROJ_1147,Commercial Buildings,Medium,Slight Delay,Clear,Contractor_B,5_Handover,184.41,220.0,92.3,77.2
+PROJ_1148,Commercial Buildings,Medium,Slight Delay,Extreme Heat,Contractor_B,3_Structural,150.3,320.0,48.8,27.4
+PROJ_1149,Roads & Highways,Large,Severe Delay,Extreme Heat,Contractor_B,3_Structural,672.64,403.0,51.5,18.9
+PROJ_1150,Bridges & Flyovers,Medium,Severe Delay,Rainy,Contractor_D,3_Structural,118.7,322.0,52.8,10.6
+PROJ_1151,Water Infrastructure,Small,Slight Delay,Clear,Contractor_B,2_Foundation,35.21,96.0,33.9,15.4
+PROJ_1152,Roads & Highways,Medium,Severe Delay,Clear,Contractor_A,3_Structural,88.01,256.0,42.6,14.4
+PROJ_1153,Roads & Highways,Medium,Slight Delay,Clear,Contractor_C,3_Structural,156.11,231.0,42.0,15.9
+PROJ_1154,Commercial Buildings,Medium,Slight Delay,Clear,Contractor_D,1_Planning,114.71,337.0,13.9,5.0
+PROJ_1155,Water Infrastructure,Medium,Slight Delay,Clear,Contractor_A,4_MEP_Finishing,116.94,346.0,84.2,62.6
+PROJ_1156,Roads & Highways,Small,Slight Delay,Stormy,Contractor_A,3_Structural,35.97,51.0,46.6,13.6
+PROJ_1157,Commercial Buildings,Small,On-Time,Rainy,Contractor_A,4_MEP_Finishing,47.45,67.0,83.2,59.7
+PROJ_1158,Metro & Rail,Medium,Severe Delay,Clear,Contractor_B,5_Handover,60.54,300.0,93.3,66.0
+PROJ_1159,Roads & Highways,Medium,Severe Delay,Clear,Contractor_B,2_Foundation,173.89,347.0,37.8,13.7
+PROJ_1160,Metro & Rail,Medium,On-Time,Clear,Contractor_C,4_MEP_Finishing,94.57,172.0,88.0,72.0
+PROJ_1161,Bridges & Flyovers,Medium,Severe Delay,Rainy,Contractor_C,3_Structural,117.14,162.0,49.6,7.9
+PROJ_1162,Commercial Buildings,Large,On-Time,Rainy,Contractor_C,5_Handover,214.13,535.0,93.1,76.6
+PROJ_1163,Commercial Buildings,Medium,On-Time,Stormy,Contractor_B,2_Foundation,95.86,106.0,28.8,10.4
+PROJ_1164,Commercial Buildings,Small,Slight Delay,Clear,Contractor_D,4_MEP_Finishing,30.11,61.0,75.6,47.0
+PROJ_1165,Roads & Highways,Small,On-Time,Stormy,Contractor_B,3_Structural,12.25,39.0,60.5,26.4
+PROJ_1166,Metro & Rail,Small,Severe Delay,Extreme Heat,Contractor_D,2_Foundation,29.64,32.0,36.7,5.0
+PROJ_1167,Bridges & Flyovers,Small,Severe Delay,Clear,Contractor_C,1_Planning,47.08,88.0,16.7,5.0
+PROJ_1168,Roads & Highways,Small,Slight Delay,Stormy,Contractor_A,4_MEP_Finishing,14.22,78.0,86.7,54.3
+PROJ_1169,Roads & Highways,Small,On-Time,Clear,Contractor_C,4_MEP_Finishing,40.58,88.0,78.5,66.1
+PROJ_1170,Commercial Buildings,Small,On-Time,Extreme Heat,Contractor_B,2_Foundation,26.39,60.0,24.0,5.8
+PROJ_1171,Commercial Buildings,Small,Slight Delay,Clear,Contractor_C,3_Structural,36.21,98.0,62.4,41.1
+PROJ_1172,Roads & Highways,Large,Severe Delay,Extreme Heat,Contractor_A,3_Structural,356.88,658.0,51.5,20.3
+PROJ_1173,Commercial Buildings,Small,Slight Delay,Extreme Heat,Contractor_A,4_MEP_Finishing,16.38,70.0,83.8,58.7
+PROJ_1174,Roads & Highways,Medium,On-Time,Extreme Heat,Contractor_D,2_Foundation,74.91,131.0,26.1,8.9
+PROJ_1175,Commercial Buildings,Medium,Slight Delay,Extreme Heat,Contractor_A,5_Handover,61.5,313.0,91.7,76.1
+PROJ_1176,Roads & Highways,Large,Slight Delay,Clear,Contractor_D,2_Foundation,312.2,946.0,39.9,17.1
+PROJ_1177,Commercial Buildings,Small,Slight Delay,Clear,Contractor_A,3_Structural,36.57,51.0,45.5,20.1
+PROJ_1178,Bridges & Flyovers,Medium,On-Time,Clear,Contractor_C,1_Planning,182.37,232.0,19.9,10.4
+PROJ_1179,Water Infrastructure,Large,Slight Delay,Clear,Contractor_C,1_Planning,688.66,875.0,19.8,5.8
+PROJ_1180,Roads & Highways,Large,Slight Delay,Rainy,Contractor_B,3_Structural,611.4,907.0,64.0,36.6
+PROJ_1181,Bridges & Flyovers,Large,Severe Delay,Clear,Contractor_B,2_Foundation,267.15,989.0,33.5,5.1
+PROJ_1182,Roads & Highways,Small,On-Time,Stormy,Contractor_A,4_MEP_Finishing,21.57,71.0,82.0,54.2
+PROJ_1183,Water Infrastructure,Small,Slight Delay,Rainy,Contractor_A,1_Planning,22.39,78.0,18.7,5.0
+PROJ_1184,Water Infrastructure,Medium,Severe Delay,Extreme Heat,Contractor_B,3_Structural,88.24,120.0,49.4,14.7
+PROJ_1185,Bridges & Flyovers,Large,On-Time,Clear,Contractor_C,2_Foundation,509.49,850.0,29.9,22.9
+PROJ_1186,Commercial Buildings,Medium,Severe Delay,Extreme Heat,Contractor_D,1_Planning,130.8,305.0,16.2,5.0
+PROJ_1187,Metro & Rail,Medium,Slight Delay,Stormy,Contractor_D,1_Planning,104.18,181.0,14.1,5.0
+PROJ_1188,Commercial Buildings,Small,On-Time,Clear,Contractor_C,3_Structural,24.15,83.0,53.4,39.3
+PROJ_1189,Commercial Buildings,Large,On-Time,Rainy,Contractor_C,3_Structural,697.3,831.0,50.6,29.3
+PROJ_1190,Roads & Highways,Small,Slight Delay,Extreme Heat,Contractor_C,3_Structural,41.57,30.0,57.4,23.9
+PROJ_1191,Roads & Highways,Medium,On-Time,Clear,Contractor_A,3_Structural,96.86,,65.7,57.8
+PROJ_1192,Water Infrastructure,Medium,Slight Delay,Rainy,Contractor_D,3_Structural,187.15,305.0,46.8,14.1
+PROJ_1193,Water Infrastructure,Medium,On-Time,Clear,Contractor_C,1_Planning,192.97,117.0,19.3,10.1
+PROJ_1194,Commercial Buildings,Small,Slight Delay,Clear,Contractor_C,3_Structural,23.07,53.0,61.0,33.3
+PROJ_1195,Bridges & Flyovers,Small,On-Time,Clear,Contractor_A,5_Handover,24.18,87.0,98.4,93.9
+PROJ_1196,Bridges & Flyovers,Medium,Severe Delay,Clear,Contractor_B,3_Structural,126.34,172.0,57.1,24.6
+PROJ_1197,Metro & Rail,Small,Severe Delay,Clear,Contractor_B,4_MEP_Finishing,47.64,52.0,85.8,51.0
+PROJ_1198,Water Infrastructure,Medium,Severe Delay,Clear,Contractor_D,2_Foundation,181.57,274.0,21.3,5.0
+PROJ_1199,Water Infrastructure,Small,Slight Delay,Stormy,Contractor_B,4_MEP_Finishing,14.1,37.0,86.5,51.2
+PROJ_1200,Metro & Rail,Medium,On-Time,Rainy,Contractor_B,4_MEP_Finishing,109.52,159.0,71.8,53.1
+PROJ_1201,Commercial Buildings,Medium,Slight Delay,Stormy,Contractor_D,3_Structural,133.45,318.0,66.8,28.0
+PROJ_1202,Roads & Highways,Small,On-Time,Clear,Contractor_A,5_Handover,30.13,88.0,99.9,94.0
+PROJ_1203,Roads & Highways,Medium,On-Time,Clear,Contractor_B,1_Planning,79.89,113.0,12.9,8.9
+PROJ_1204,Water Infrastructure,Small,On-Time,Rainy,Contractor_A,1_Planning,44.35,68.0,12.1,5.0
+PROJ_1205,Commercial Buildings,Small,Slight Delay,Clear,Contractor_C,4_MEP_Finishing,37.08,57.0,85.5,60.5
+PROJ_1206,Roads & Highways,Large,Slight Delay,Clear,Contractor_D,4_MEP_Finishing,702.91,823.0,75.8,50.9
+PROJ_1207,Roads & Highways,Medium,Slight Delay,Rainy,Contractor_A,1_Planning,178.96,289.0,18.7,5.0
+PROJ_1208,Commercial Buildings,Large,On-Time,Clear,Contractor_D,2_Foundation,649.27,622.0,23.0,11.2
+PROJ_1209,Roads & Highways,Small,On-Time,Rainy,Contractor_A,1_Planning,27.57,31.0,11.3,5.0
+PROJ_1210,Roads & Highways,Medium,Severe Delay,Rainy,Contractor_D,2_Foundation,141.97,346.0,39.6,5.0
+PROJ_1211,Commercial Buildings,Large,On-Time,Clear,Contractor_C,4_MEP_Finishing,297.06,861.0,83.8,68.2
+PROJ_1212,Commercial Buildings,Medium,Slight Delay,Clear,Contractor_D,3_Structural,151.37,245.0,65.6,39.5
+PROJ_1213,Commercial Buildings,Medium,On-Time,Extreme Heat,Contractor_A,2_Foundation,77.71,130.0,27.2,17.4
+PROJ_1214,Roads & Highways,Medium,Slight Delay,Clear,Contractor_D,3_Structural,154.4,203.0,60.6,32.5
+PROJ_1215,Metro & Rail,Medium,Slight Delay,Clear,Contractor_C,1_Planning,85.21,113.0,15.9,5.0
+PROJ_1216,Roads & Highways,Large,On-Time,Stormy,Contractor_B,2_Foundation,271.41,958.0,32.5,14.2
+PROJ_1217,Bridges & Flyovers,Large,On-Time,Clear,Contractor_D,3_Structural,300.01,848.0,60.8,41.5
+PROJ_1218,Metro & Rail,Large,Slight Delay,Rainy,Contractor_A,5_Handover,202.19,588.0,96.2,75.5
+PROJ_1219,Commercial Buildings,Small,Slight Delay,Stormy,Contractor_D,4_MEP_Finishing,38.75,42.0,79.2,37.2
+PROJ_1220,Metro & Rail,Medium,On-Time,Clear,Contractor_A,1_Planning,160.13,271.0,12.8,12.8
+PROJ_1221,Commercial Buildings,Large,Severe Delay,Clear,Contractor_C,5_Handover,509.45,956.0,97.9,69.6
+PROJ_1222,Commercial Buildings,Small,On-Time,Clear,Contractor_B,4_MEP_Finishing,16.45,50.0,75.3,54.9
+PROJ_1223,Roads & Highways,Small,On-Time,Clear,Contractor_A,4_MEP_Finishing,13.34,84.0,84.2,75.9
+PROJ_1224,Bridges & Flyovers,Medium,Severe Delay,Clear,Contractor_A,3_Structural,53.85,181.0,47.8,20.3
+PROJ_1225,Bridges & Flyovers,Medium,On-Time,Rainy,Contractor_A,3_Structural,75.7,268.0,59.1,40.4
+PROJ_1226,Roads & Highways,Large,Slight Delay,Clear,Contractor_B,2_Foundation,734.62,817.0,35.2,18.6
+PROJ_1227,Water Infrastructure,Small,On-Time,Rainy,Contractor_B,1_Planning,19.66,44.0,12.2,5.0
+PROJ_1228,Bridges & Flyovers,Large,On-Time,Stormy,Contractor_C,2_Foundation,413.21,551.0,22.1,5.0
+PROJ_1229,Water Infrastructure,Small,Severe Delay,Extreme Heat,Contractor_A,2_Foundation,14.21,81.0,23.5,5.0
+PROJ_1230,Commercial Buildings,Small,On-Time,Rainy,Contractor_A,3_Structural,18.89,82.0,58.6,39.4
+PROJ_1231,Metro & Rail,Small,Severe Delay,Clear,Contractor_C,4_MEP_Finishing,30.77,81.0,87.1,55.4
+PROJ_1232,Commercial Buildings,Large,On-Time,Rainy,Contractor_A,3_Structural,565.04,767.0,42.3,23.6
+PROJ_1233,Commercial Buildings,Medium,On-Time,Rainy,Contractor_D,1_Planning,87.56,157.0,17.3,5.0
+PROJ_1234,Commercial Buildings,Medium,On-Time,Clear,Contractor_D,5_Handover,59.6,152.0,94.1,79.4
+PROJ_1235,Roads & Highways,Medium,Slight Delay,Clear,Contractor_C,5_Handover,109.26,237.0,95.3,79.6
+PROJ_1236,Metro & Rail,Large,On-Time,Extreme Heat,Contractor_C,4_MEP_Finishing,341.29,717.0,88.6,70.0
+PROJ_1237,Bridges & Flyovers,Medium,Severe Delay,Clear,Contractor_D,5_Handover,83.71,101.0,94.0,63.1
+PROJ_1238,Roads & Highways,Large,Slight Delay,Clear,Contractor_A,3_Structural,775.96,394.0,54.5,35.4
+PROJ_1239,Commercial Buildings,Medium,Severe Delay,Clear,Contractor_A,5_Handover,142.83,327.0,91.1,68.0
+PROJ_1240,Roads & Highways,Medium,On-Time,Clear,Contractor_A,1_Planning,133.97,175.0,10.8,8.1
+PROJ_1241,Water Infrastructure,Medium,Severe Delay,Extreme Heat,Contractor_C,3_Structural,112.95,198.0,48.5,9.1
+PROJ_1242,Water Infrastructure,Medium,Slight Delay,Rainy,Contractor_A,2_Foundation,114.91,308.0,21.5,5.0
+PROJ_1243,Water Infrastructure,Medium,Slight Delay,Extreme Heat,Contractor_C,2_Foundation,131.59,109.0,33.0,13.2
+PROJ_1244,Bridges & Flyovers,Medium,Severe Delay,Clear,Contractor_D,1_Planning,154.77,132.0,14.3,5.0
+PROJ_1245,Roads & Highways,Small,Slight Delay,Clear,Contractor_D,3_Structural,38.09,44.0,56.9,24.5
+PROJ_1246,Water Infrastructure,Large,Slight Delay,Clear,Contractor_B,4_MEP_Finishing,303.84,490.0,74.3,52.8
+PROJ_1247,Bridges & Flyovers,Medium,On-Time,Clear,Contractor_A,3_Structural,125.52,325.0,49.6,37.4
+PROJ_1248,Water Infrastructure,Medium,On-Time,Clear,Contractor_D,1_Planning,112.38,337.0,16.6,7.3
+PROJ_1249,Water Infrastructure,Large,Severe Delay,Extreme Heat,Contractor_C,4_MEP_Finishing,722.45,422.0,89.3,49.3
+PROJ_1250,Water Infrastructure,Medium,Slight Delay,Clear,Contractor_A,3_Structural,145.08,255.0,42.5,23.0
+PROJ_1251,Bridges & Flyovers,Small,Slight Delay,Rainy,Contractor_A,3_Structural,31.3,91.0,66.8,38.2
+PROJ_1252,Bridges & Flyovers,Large,Slight Delay,Clear,Contractor_D,4_MEP_Finishing,270.12,618.0,82.0,57.3
+PROJ_1253,Water Infrastructure,Medium,On-Time,Clear,Contractor_C,2_Foundation,141.24,165.0,31.7,19.6
+PROJ_1254,Bridges & Flyovers,Medium,On-Time,Clear,Contractor_D,2_Foundation,68.46,207.0,30.5,14.8
+PROJ_1255,Roads & Highways,Small,Slight Delay,Stormy,Contractor_D,5_Handover,23.49,71.0,91.6,51.2
+PROJ_1256,Commercial Buildings,Large,On-Time,Extreme Heat,Contractor_C,2_Foundation,286.56,489.0,22.7,6.6
+PROJ_1257,Water Infrastructure,Medium,On-Time,,Contractor_B,3_Structural,154.12,203.0,58.4,31.7
+PROJ_1258,Commercial Buildings,Medium,Slight Delay,Clear,Contractor_B,5_Handover,81.73,271.0,94.1,79.7
+PROJ_1259,Commercial Buildings,Large,On-Time,Clear,Contractor_B,4_MEP_Finishing,435.72,623.0,88.4,78.5
+PROJ_1260,Roads & Highways,Large,Slight Delay,Rainy,Contractor_B,1_Planning,737.51,831.0,14.1,5.0
+PROJ_1261,Commercial Buildings,Small,On-Time,Clear,Contractor_C,1_Planning,18.17,61.0,11.4,5.0
+PROJ_1262,Water Infrastructure,Medium,Slight Delay,Extreme Heat,Contractor_C,1_Planning,126.66,321.0,17.1,5.0
+PROJ_1263,Roads & Highways,Small,On-Time,Clear,Contractor_D,3_Structural,26.77,69.0,49.5,23.4
+PROJ_1264,Commercial Buildings,Medium,Slight Delay,Clear,Contractor_B,3_Structural,53.7,251.0,56.2,32.3
+PROJ_1265,Water Infrastructure,Small,On-Time,Clear,Contractor_C,1_Planning,41.71,85.0,17.0,10.8
+PROJ_1266,Metro & Rail,Medium,On-Time,Clear,Contractor_C,5_Handover,61.29,234.0,99.1,90.8
+PROJ_1267,Commercial Buildings,Large,On-Time,Rainy,Contractor_C,3_Structural,485.08,692.0,64.0,41.3
+PROJ_1268,Metro & Rail,Large,Slight Delay,Clear,Contractor_C,2_Foundation,536.85,964.0,33.9,14.3
+PROJ_1269,Bridges & Flyovers,Medium,Slight Delay,Clear,Contractor_A,3_Structural,144.64,265.0,60.7,42.7
+PROJ_1270,Bridges & Flyovers,Large,On-Time,Clear,Contractor_B,4_MEP_Finishing,613.49,843.0,89.0,75.3
+PROJ_1271,Metro & Rail,Small,Slight Delay,Clear,Contractor_A,1_Planning,20.13,93.0,13.0,5.0
+PROJ_1272,Metro & Rail,Large,Severe Delay,Extreme Heat,Contractor_B,2_Foundation,206.98,849.0,21.0,5.0
+PROJ_1273,Water Infrastructure,Small,Slight Delay,Extreme Heat,Contractor_B,4_MEP_Finishing,38.94,83.0,76.2,57.1
+PROJ_1274,Water Infrastructure,Medium,On-Time,Stormy,Contractor_C,3_Structural,130.81,300.0,47.3,21.9
+PROJ_1275,Commercial Buildings,Large,Slight Delay,Extreme Heat,Contractor_D,3_Structural,701.83,583.0,60.2,29.6
+PROJ_1276,Commercial Buildings,Small,On-Time,Clear,Contractor_C,3_Structural,42.86,78.0,59.4,42.7
+PROJ_1277,Metro & Rail,Small,On-Time,Rainy,Contractor_C,1_Planning,43.73,40.0,15.9,5.0
+PROJ_1278,Commercial Buildings,Medium,Severe Delay,Clear,Contractor_B,2_Foundation,123.28,188.0,21.3,5.0
+PROJ_1279,Metro & Rail,Medium,On-Time,Clear,Contractor_C,3_Structural,100.71,149.0,62.1,39.6
+PROJ_1280,Metro & Rail,Medium,Slight Delay,Extreme Heat,Contractor_A,2_Foundation,168.94,249.0,27.1,5.5
+PROJ_1281,Water Infrastructure,Medium,Slight Delay,Clear,Contractor_A,1_Planning,118.24,215.0,16.7,6.1
+PROJ_1282,Bridges & Flyovers,Medium,Slight Delay,Stormy,Contractor_B,4_MEP_Finishing,78.33,294.0,81.6,50.8
+PROJ_1283,Bridges & Flyovers,Small,Slight Delay,Clear,Contractor_B,5_Handover,44.2,92.0,94.1,77.1
+PROJ_1284,Roads & Highways,Medium,On-Time,Rainy,Contractor_A,4_MEP_Finishing,182.5,204.0,73.6,54.2
+PROJ_1285,Commercial Buildings,Small,On-Time,Rainy,Contractor_A,5_Handover,28.65,57.0,91.8,78.1
+PROJ_1286,Roads & Highways,Large,Slight Delay,Extreme Heat,Contractor_A,2_Foundation,246.34,623.0,36.8,23.4
+PROJ_1287,Commercial Buildings,Medium,On-Time,Rainy,Contractor_D,5_Handover,108.79,106.0,99.3,80.5
+PROJ_1288,Commercial Buildings,Medium,On-Time,Rainy,Contractor_B,2_Foundation,170.73,247.0,33.3,17.1
+PROJ_1289,Bridges & Flyovers,Medium,On-Time,Clear,Contractor_B,5_Handover,185.36,284.0,91.9,83.9
+PROJ_1290,Commercial Buildings,Large,On-Time,Rainy,Contractor_A,5_Handover,322.88,378.0,94.6,80.5
+PROJ_1291,Roads & Highways,Small,On-Time,Clear,Contractor_C,4_MEP_Finishing,12.68,95.0,84.8,73.2
+PROJ_1292,Roads & Highways,Medium,On-Time,Rainy,Contractor_A,5_Handover,181.73,138.0,98.0,90.6
+PROJ_1293,Metro & Rail,Medium,Slight Delay,Rainy,Contractor_A,3_Structural,109.02,219.0,44.4,16.7
+PROJ_1294,Bridges & Flyovers,Medium,Slight Delay,Rainy,Contractor_B,2_Foundation,131.72,137.0,21.0,5.0
+PROJ_1295,Roads & Highways,Small,Severe Delay,Clear,Contractor_A,3_Structural,48.72,97.0,61.7,36.7
+PROJ_1296,Commercial Buildings,Large,On-Time,Clear,Contractor_A,3_Structural,240.87,568.0,51.3,40.0
+PROJ_1297,Metro & Rail,Large,On-Time,Rainy,Contractor_A,1_Planning,589.34,527.0,12.5,5.0
+PROJ_1298,Roads & Highways,Medium,On-Time,Clear,Contractor_A,3_Structural,62.04,143.0,41.4,30.6
+PROJ_1299,Commercial Buildings,Medium,Slight Delay,Clear,Contractor_A,5_Handover,106.94,264.0,95.9,83.8
+PROJ_1300,Roads & Highways,Large,Slight Delay,Clear,Contractor_B,2_Foundation,682.48,408.0,37.2,21.5
+PROJ_1301,Roads & Highways,Medium,On-Time,Stormy,Contractor_D,4_MEP_Finishing,115.59,113.0,89.2,60.9
+PROJ_1302,Commercial Buildings,Small,Severe Delay,Rainy,Contractor_C,5_Handover,49.89,81.0,96.1,63.8
+PROJ_1303,Commercial Buildings,Medium,On-Time,Clear,Contractor_B,5_Handover,134.3,158.0,95.6,90.0
+PROJ_1304,Commercial Buildings,Medium,Slight Delay,Clear,Contractor_A,5_Handover,98.85,132.0,91.8,77.8
+PROJ_1305,Metro & Rail,Medium,Slight Delay,Clear,Contractor_D,3_Structural,83.8,309.0,56.9,29.3
+PROJ_1306,Water Infrastructure,Medium,Severe Delay,Extreme Heat,Contractor_B,5_Handover,103.23,205.0,94.4,66.1
+PROJ_1307,Commercial Buildings,Large,Slight Delay,Rainy,Contractor_A,4_MEP_Finishing,424.15,578.0,82.5,60.5
+PROJ_1308,Bridges & Flyovers,Large,Severe Delay,Clear,Contractor_C,2_Foundation,242.16,597.0,28.4,5.0
+PROJ_1309,Metro & Rail,Medium,On-Time,Clear,Contractor_A,3_Structural,106.07,288.0,48.0,41.4
+PROJ_1310,Bridges & Flyovers,Small,Severe Delay,Clear,Contractor_B,4_MEP_Finishing,28.57,,72.8,43.4
+PROJ_1311,Bridges & Flyovers,Large,On-Time,Rainy,Contractor_B,2_Foundation,633.92,602.0,27.0,9.1
+PROJ_1312,Roads & Highways,Large,Severe Delay,Extreme Heat,Contractor_D,3_Structural,594.38,705.0,43.8,6.7
+PROJ_1313,Roads & Highways,Small,Slight Delay,Clear,Contractor_B,4_MEP_Finishing,38.35,85.0,74.4,56.6
+PROJ_1314,Water Infrastructure,Large,Severe Delay,Clear,Contractor_C,2_Foundation,206.01,560.0,39.8,10.1
+PROJ_1315,Metro & Rail,Large,Slight Delay,Clear,Contractor_D,3_Structural,331.38,959.0,53.9,24.4
+PROJ_1316,Commercial Buildings,Medium,Slight Delay,Stormy,Contractor_A,4_MEP_Finishing,149.59,291.0,81.1,53.0
+PROJ_1317,Bridges & Flyovers,Medium,Slight Delay,Clear,Contractor_A,3_Structural,123.11,304.0,66.3,48.7
+PROJ_1318,Roads & Highways,Medium,Slight Delay,Extreme Heat,Contractor_B,1_Planning,51.79,300.0,20.0,7.9
+PROJ_1319,Roads & Highways,Small,On-Time,Rainy,Contractor_B,1_Planning,42.18,33.0,15.8,5.0
+PROJ_1320,Bridges & Flyovers,Medium,On-Time,Clear,Contractor_B,3_Structural,166.15,266.0,64.6,47.5
+PROJ_1321,Commercial Buildings,Large,On-Time,Clear,Contractor_D,5_Handover,529.5,842.0,93.9,80.3
+PROJ_1322,Metro & Rail,Small,On-Time,Clear,Contractor_C,2_Foundation,12.66,56.0,26.8,10.8
+PROJ_1323,Commercial Buildings,Medium,Severe Delay,Rainy,Contractor_C,3_Structural,165.21,237.0,52.7,11.1
+PROJ_1324,Bridges & Flyovers,Medium,On-Time,Extreme Heat,Contractor_B,2_Foundation,137.97,211.0,33.8,22.8
+PROJ_1325,Water Infrastructure,Medium,Severe Delay,Rainy,Contractor_D,2_Foundation,167.51,244.0,34.0,5.0
+PROJ_1326,Metro & Rail,Large,On-Time,Rainy,Contractor_D,4_MEP_Finishing,651.3,534.0,77.0,51.4
+PROJ_1327,Commercial Buildings,Medium,On-Time,Clear,Contractor_D,4_MEP_Finishing,170.65,176.0,73.5,56.0
+PROJ_1328,Commercial Buildings,Medium,Slight Delay,Stormy,Contractor_A,1_Planning,128.18,131.0,16.3,5.0
+PROJ_1329,Bridges & Flyovers,Medium,Slight Delay,Extreme Heat,Contractor_C,3_Structural,71.91,316.0,44.7,19.7
+PROJ_1330,Roads & Highways,Medium,Slight Delay,Clear,Contractor_A,1_Planning,151.0,219.0,15.8,5.0
+PROJ_1331,Bridges & Flyovers,Small,Slight Delay,Stormy,Contractor_A,3_Structural,34.82,43.0,61.1,23.8
+PROJ_1332,Metro & Rail,Medium,Slight Delay,Rainy,Contractor_A,4_MEP_Finishing,161.6,337.0,84.3,61.4
+PROJ_1333,Roads & Highways,Small,On-Time,Rainy,Contractor_C,1_Planning,16.8,,17.5,5.0
+PROJ_1334,Roads & Highways,Small,Severe Delay,Rainy,Contractor_C,2_Foundation,17.8,63.0,37.6,5.0
+PROJ_1335,Roads & Highways,Medium,Severe Delay,Extreme Heat,Contractor_A,3_Structural,183.67,167.0,55.5,25.1
+PROJ_1336,Roads & Highways,Medium,Slight Delay,Rainy,Contractor_B,5_Handover,162.75,252.0,97.6,77.1
+PROJ_1337,Water Infrastructure,Large,On-Time,Clear,Contractor_B,5_Handover,745.03,860.0,96.6,93.1
+PROJ_1338,Metro & Rail,Medium,Slight Delay,Clear,Contractor_B,1_Planning,164.05,218.0,11.9,5.0
+PROJ_1339,Commercial Buildings,Medium,On-Time,Stormy,Contractor_A,4_MEP_Finishing,139.98,334.0,71.5,54.2
+PROJ_1340,Roads & Highways,Medium,On-Time,Clear,Contractor_B,3_Structural,148.47,173.0,49.3,38.8
+PROJ_1341,Commercial Buildings,Small,On-Time,Clear,Contractor_C,3_Structural,45.57,55.0,53.8,37.0
+PROJ_1342,Commercial Buildings,Medium,Slight Delay,Clear,Contractor_A,4_MEP_Finishing,137.24,248.0,82.7,65.9
+PROJ_1343,Roads & Highways,Small,Severe Delay,Clear,Contractor_A,5_Handover,35.3,93.0,98.6,75.9
+PROJ_1344,Bridges & Flyovers,Large,Slight Delay,Rainy,Contractor_B,5_Handover,294.73,710.0,92.8,71.5
+PROJ_1345,Bridges & Flyovers,Small,Slight Delay,Stormy,Contractor_D,3_Structural,28.96,39.0,44.6,5.0
+PROJ_1346,Commercial Buildings,Medium,On-Time,Clear,Contractor_C,3_Structural,157.74,311.0,68.9,55.2
+PROJ_1347,Commercial Buildings,Small,On-Time,Clear,Contractor_C,4_MEP_Finishing,20.84,96.0,73.1,58.2
+PROJ_1348,Roads & Highways,Large,On-Time,Clear,Contractor_B,2_Foundation,322.15,502.0,30.1,23.2
+PROJ_1349,Bridges & Flyovers,Medium,Severe Delay,Extreme Heat,Contractor_C,3_Structural,97.76,105.0,58.0,20.4
+PROJ_1350,Commercial Buildings,Medium,On-Time,Rainy,Contractor_A,3_Structural,86.98,295.0,56.7,40.5
+PROJ_1351,Commercial Buildings,Small,Severe Delay,Clear,Contractor_C,4_MEP_Finishing,18.6,87.0,72.6,40.2
+PROJ_1352,Water Infrastructure,Medium,Slight Delay,Extreme Heat,Contractor_D,2_Foundation,114.3,127.0,22.1,5.0
+PROJ_1353,Commercial Buildings,Small,On-Time,Extreme Heat,Contractor_C,2_Foundation,46.31,44.0,23.0,5.0
+PROJ_1354,Roads & Highways,Large,Slight Delay,Extreme Heat,Contractor_D,5_Handover,504.73,513.0,96.3,73.1
+PROJ_1355,Roads & Highways,Small,Slight Delay,Stormy,Contractor_C,1_Planning,17.52,82.0,15.4,5.0
+PROJ_1356,Commercial Buildings,Small,Severe Delay,Clear,Contractor_A,3_Structural,13.08,73.0,47.8,14.3
+PROJ_1357,Roads & Highways,Small,Severe Delay,Extreme Heat,Contractor_D,2_Foundation,37.85,55.0,33.1,5.0
+PROJ_1358,Commercial Buildings,Medium,On-Time,Clear,Contractor_A,1_Planning,108.04,275.0,18.2,15.9
+PROJ_1359,Water Infrastructure,Medium,On-Time,Extreme Heat,Contractor_B,1_Planning,173.45,262.0,10.4,5.0
+PROJ_1360,Commercial Buildings,Small,Slight Delay,Rainy,Contractor_A,2_Foundation,36.38,79.0,30.5,5.0
+PROJ_1361,Bridges & Flyovers,Large,Severe Delay,Extreme Heat,Contractor_A,5_Handover,677.95,490.0,97.2,73.2
+PROJ_1362,Commercial Buildings,Medium,On-Time,Rainy,Contractor_B,2_Foundation,91.52,315.0,25.8,12.8
+PROJ_1363,Commercial Buildings,Medium,Slight Delay,Clear,Contractor_A,5_Handover,154.16,232.0,93.8,83.6
+PROJ_1364,Commercial Buildings,Medium,Slight Delay,Rainy,Contractor_B,3_Structural,90.35,187.0,58.8,34.0
+PROJ_1365,Water Infrastructure,Medium,Slight Delay,Stormy,Contractor_C,3_Structural,190.92,276.0,67.0,33.4
+PROJ_1366,Bridges & Flyovers,Medium,On-Time,Stormy,Contractor_A,3_Structural,145.82,283.0,64.5,41.2
+PROJ_1367,Water Infrastructure,Small,Slight Delay,Clear,Contractor_A,3_Structural,22.98,30.0,57.9,35.7
+PROJ_1368,Water Infrastructure,Small,Severe Delay,Clear,Contractor_C,4_MEP_Finishing,20.78,95.0,84.9,51.9
+PROJ_1369,Roads & Highways,Large,On-Time,Clear,Contractor_B,2_Foundation,315.37,728.0,27.9,19.8
+PROJ_1370,Roads & Highways,Large,On-Time,Rainy,Contractor_C,3_Structural,617.09,499.0,59.6,40.5
+PROJ_1371,Roads & Highways,Medium,Severe Delay,Extreme Heat,Contractor_C,5_Handover,83.59,317.0,95.2,62.9
+PROJ_1372,Roads & Highways,Small,On-Time,Clear,Contractor_D,5_Handover,33.81,78.0,92.7,73.1
+PROJ_1373,Roads & Highways,Medium,Severe Delay,Rainy,Contractor_C,5_Handover,90.43,216.0,97.3,64.3
+PROJ_1374,Commercial Buildings,Medium,Slight Delay,Extreme Heat,Contractor_B,3_Structural,149.63,314.0,57.1,32.3
+PROJ_1375,Roads & Highways,Small,On-Time,,Contractor_C,4_MEP_Finishing,42.6,91.0,77.8,58.5
+PROJ_1376,Bridges & Flyovers,Small,Severe Delay,Rainy,Contractor_A,3_Structural,41.12,67.0,67.4,26.2
+PROJ_1377,Metro & Rail,Medium,On-Time,Rainy,Contractor_B,3_Structural,164.37,243.0,41.6,24.1
+PROJ_1378,Roads & Highways,Medium,Slight Delay,Rainy,Contractor_C,2_Foundation,78.97,210.0,27.0,5.0
+PROJ_1379,Metro & Rail,Small,On-Time,Clear,Contractor_B,3_Structural,13.54,81.0,42.6,30.4
+PROJ_1380,Bridges & Flyovers,Small,Slight Delay,Rainy,Contractor_C,2_Foundation,37.96,75.0,35.6,5.0
+PROJ_1381,Roads & Highways,Small,On-Time,Rainy,Contractor_D,2_Foundation,24.73,54.0,34.3,9.1
+PROJ_1382,Commercial Buildings,Medium,On-Time,Extreme Heat,Contractor_D,5_Handover,115.42,121.0,94.0,80.4
+PROJ_1383,Commercial Buildings,Small,Severe Delay,Rainy,Contractor_D,2_Foundation,11.25,34.0,33.8,5.0
+PROJ_1384,Water Infrastructure,Small,On-Time,Extreme Heat,Contractor_B,1_Planning,20.38,99.0,14.0,5.5
+PROJ_1385,Metro & Rail,Large,Slight Delay,Clear,Contractor_B,1_Planning,221.17,975.0,17.6,5.0
+PROJ_1386,Metro & Rail,Small,On-Time,Clear,Contractor_C,5_Handover,45.17,76.0,95.1,79.7
+PROJ_1387,Bridges & Flyovers,Medium,Slight Delay,Clear,Contractor_B,3_Structural,87.27,315.0,53.0,33.3
+PROJ_1388,Roads & Highways,Small,On-Time,Clear,Contractor_C,3_Structural,32.29,97.0,68.1,49.8
+PROJ_1389,Metro & Rail,Small,Severe Delay,Rainy,Contractor_C,4_MEP_Finishing,11.56,47.0,75.8,34.2
+PROJ_1390,Metro & Rail,Small,Slight Delay,Stormy,Contractor_C,4_MEP_Finishing,36.67,50.0,73.3,33.3
+PROJ_1391,Water Infrastructure,Medium,On-Time,Clear,Contractor_B,2_Foundation,99.13,320.0,32.1,21.7
+PROJ_1392,Bridges & Flyovers,Large,On-Time,Clear,Contractor_A,4_MEP_Finishing,738.85,542.0,89.4,79.4
+PROJ_1393,Bridges & Flyovers,Large,On-Time,Extreme Heat,Contractor_B,4_MEP_Finishing,732.98,902.0,78.2,64.6
+PROJ_1394,Metro & Rail,Medium,Slight Delay,Clear,Contractor_A,4_MEP_Finishing,99.47,342.0,72.2,56.3
+PROJ_1395,Bridges & Flyovers,Medium,On-Time,Rainy,Contractor_D,2_Foundation,185.24,238.0,27.4,5.0
+PROJ_1396,Water Infrastructure,Small,Severe Delay,Rainy,Contractor_B,5_Handover,49.85,81.0,95.6,66.4
+PROJ_1397,Water Infrastructure,Small,On-Time,Rainy,Contractor_A,3_Structural,43.02,90.0,45.7,29.6
+PROJ_1398,Bridges & Flyovers,Large,On-Time,Clear,Contractor_A,2_Foundation,707.08,542.0,33.5,28.3
+PROJ_1399,Metro & Rail,Small,Slight Delay,Clear,Contractor_C,3_Structural,19.96,34.0,69.9,38.4
+PROJ_1400,Metro & Rail,Small,Slight Delay,Extreme Heat,Contractor_C,1_Planning,33.07,82.0,14.5,5.0
+PROJ_1401,Roads & Highways,Small,On-Time,Rainy,Contractor_B,1_Planning,12.69,84.0,13.5,5.0
+PROJ_1402,Water Infrastructure,Small,On-Time,Clear,Contractor_A,4_MEP_Finishing,13.8,66.0,78.6,65.2
+PROJ_1403,Commercial Buildings,Small,On-Time,Extreme Heat,Contractor_B,1_Planning,49.96,85.0,11.2,5.0
+PROJ_1404,Metro & Rail,Medium,Slight Delay,Clear,Contractor_B,3_Structural,99.67,287.0,66.6,47.0
+PROJ_1405,Bridges & Flyovers,Medium,Slight Delay,Rainy,Contractor_C,3_Structural,162.48,337.0,53.0,20.0
+PROJ_1406,Water Infrastructure,Large,Slight Delay,Clear,Contractor_C,1_Planning,684.19,547.0,13.9,5.0
+PROJ_1407,Bridges & Flyovers,Large,Severe Delay,Stormy,Contractor_B,5_Handover,714.96,935.0,96.9,56.7
+PROJ_1408,Roads & Highways,Medium,Severe Delay,Clear,Contractor_A,2_Foundation,199.65,159.0,29.4,5.0
+PROJ_1409,Water Infrastructure,Small,Slight Delay,Clear,Contractor_D,2_Foundation,19.66,31.0,33.3,5.0
+PROJ_1410,Roads & Highways,Medium,Severe Delay,Clear,Contractor_B,2_Foundation,57.01,293.0,22.2,5.0
+PROJ_1411,Bridges & Flyovers,Medium,On-Time,Clear,Contractor_C,2_Foundation,112.27,204.0,36.5,25.8
+PROJ_1412,Water Infrastructure,Small,On-Time,Extreme Heat,Contractor_A,1_Planning,15.2,89.0,19.4,16.3
+PROJ_1413,Water Infrastructure,Medium,On-Time,Stormy,Contractor_B,4_MEP_Finishing,54.34,151.0,83.3,61.3
+PROJ_1414,Commercial Buildings,Medium,On-Time,Clear,Contractor_A,5_Handover,104.7,130.0,99.6,93.6
+PROJ_1415,Commercial Buildings,Medium,Slight Delay,Clear,Contractor_B,2_Foundation,167.78,111.0,23.9,5.3
+PROJ_1416,Bridges & Flyovers,Medium,Severe Delay,Rainy,Contractor_D,4_MEP_Finishing,135.36,320.0,80.1,40.3
+PROJ_1417,Bridges & Flyovers,Small,On-Time,Extreme Heat,Contractor_B,4_MEP_Finishing,22.51,68.0,82.4,64.1
+PROJ_1418,Bridges & Flyovers,Large,On-Time,Rainy,Contractor_A,4_MEP_Finishing,592.95,952.0,82.1,66.4
+PROJ_1419,Commercial Buildings,Large,Slight Delay,Clear,Contractor_A,3_Structural,339.98,795.0,52.6,36.4
+PROJ_1420,Metro & Rail,Small,Severe Delay,Clear,Contractor_B,2_Foundation,10.58,83.0,27.4,5.0
+PROJ_1421,Metro & Rail,Large,On-Time,Rainy,Contractor_A,2_Foundation,658.85,956.0,23.4,11.8
+PROJ_1422,Metro & Rail,Medium,Slight Delay,Clear,Contractor_A,4_MEP_Finishing,143.94,301.0,78.4,61.8
+PROJ_1423,Roads & Highways,Large,On-Time,Rainy,Contractor_C,4_MEP_Finishing,657.62,965.0,74.1,54.0
+PROJ_1424,Commercial Buildings,Large,On-Time,Clear,Contractor_B,2_Foundation,224.32,845.0,35.0,28.6
+PROJ_1425,Roads & Highways,Medium,Severe Delay,Extreme Heat,Contractor_A,3_Structural,175.73,262.0,47.1,15.1
+PROJ_1426,Commercial Buildings,Small,Severe Delay,Clear,Contractor_D,5_Handover,34.78,60.0,91.5,55.9
+PROJ_1427,Bridges & Flyovers,Small,On-Time,Rainy,Contractor_A,4_MEP_Finishing,32.54,81.0,81.5,66.2
+PROJ_1428,Water Infrastructure,Medium,Severe Delay,Clear,Contractor_D,5_Handover,144.07,,96.4,66.9
+PROJ_1429,Bridges & Flyovers,Medium,Slight Delay,Rainy,Contractor_B,4_MEP_Finishing,179.8,,87.6,61.0
+PROJ_1430,Roads & Highways,Small,Severe Delay,Clear,Contractor_D,3_Structural,33.48,30.0,57.7,12.4
+PROJ_1431,Roads & Highways,Small,Slight Delay,Rainy,Contractor_C,3_Structural,33.24,84.0,51.0,19.7
+PROJ_1432,Metro & Rail,Large,Slight Delay,Rainy,Contractor_D,4_MEP_Finishing,794.42,628.0,86.3,52.3
+PROJ_1433,Commercial Buildings,Large,Slight Delay,Rainy,Contractor_D,1_Planning,654.28,902.0,15.4,5.0
+PROJ_1434,Roads & Highways,Medium,Slight Delay,Rainy,Contractor_A,3_Structural,116.9,201.0,43.3,17.0
+PROJ_1435,Roads & Highways,Small,On-Time,Rainy,Contractor_D,4_MEP_Finishing,38.3,30.0,81.8,55.0
+PROJ_1436,Metro & Rail,Small,On-Time,Extreme Heat,Contractor_B,2_Foundation,25.57,94.0,38.3,30.3
+PROJ_1437,Roads & Highways,Small,On-Time,Clear,Contractor_B,4_MEP_Finishing,19.16,92.0,78.5,69.0
+PROJ_1438,Metro & Rail,Large,Slight Delay,Extreme Heat,Contractor_B,3_Structural,558.51,840.0,49.6,23.2
+PROJ_1439,Metro & Rail,Small,On-Time,Clear,Contractor_B,5_Handover,47.13,83.0,92.3,83.4
+PROJ_1440,Roads & Highways,Medium,Slight Delay,Clear,Contractor_A,1_Planning,189.44,270.0,11.5,5.0
+PROJ_1441,Roads & Highways,Small,Severe Delay,Clear,Contractor_C,2_Foundation,23.68,50.0,29.2,5.0
+PROJ_1442,Water Infrastructure,Medium,On-Time,Clear,Contractor_B,3_Structural,129.62,179.0,58.3,45.7
+PROJ_1443,Bridges & Flyovers,Medium,Slight Delay,Extreme Heat,Contractor_C,2_Foundation,82.53,309.0,22.5,5.0
+PROJ_1444,Bridges & Flyovers,Large,On-Time,Rainy,Contractor_D,4_MEP_Finishing,797.38,372.0,88.9,64.5
+PROJ_1445,Metro & Rail,Small,Severe Delay,Extreme Heat,Contractor_B,4_MEP_Finishing,49.24,67.0,85.3,52.0
+PROJ_1446,Water Infrastructure,Small,On-Time,Rainy,Contractor_B,1_Planning,35.98,37.0,15.9,5.0
+PROJ_1447,Water Infrastructure,Small,Slight Delay,Clear,Contractor_A,3_Structural,42.18,91.0,65.0,46.1
+PROJ_1448,Metro & Rail,Large,Severe Delay,Clear,Contractor_A,3_Structural,629.34,879.0,43.3,13.2
+PROJ_1449,Bridges & Flyovers,Large,Severe Delay,Clear,Contractor_A,3_Structural,556.3,952.0,54.8,30.2
+PROJ_1450,Roads & Highways,Medium,Slight Delay,Clear,Contractor_B,5_Handover,58.95,241.0,96.7,82.0
+PROJ_1451,Metro & Rail,Medium,Slight Delay,Clear,Contractor_A,4_MEP_Finishing,118.76,245.0,86.7,69.4
+PROJ_1452,Commercial Buildings,Medium,Slight Delay,Clear,Contractor_D,4_MEP_Finishing,151.54,266.0,85.9,59.2
+PROJ_1453,Bridges & Flyovers,Small,Severe Delay,Rainy,Contractor_C,4_MEP_Finishing,37.1,74.0,76.3,30.9
+PROJ_1454,Water Infrastructure,Large,Slight Delay,Rainy,Contractor_B,3_Structural,424.5,513.0,68.3,39.1
+PROJ_1455,Roads & Highways,Medium,On-Time,Stormy,Contractor_C,5_Handover,191.31,210.0,92.1,71.7
+PROJ_1456,Commercial Buildings,Medium,Severe Delay,Stormy,Contractor_A,4_MEP_Finishing,75.94,114.0,87.6,52.4
+PROJ_1457,Roads & Highways,Medium,Slight Delay,Rainy,Contractor_B,4_MEP_Finishing,125.55,339.0,89.4,64.2
+PROJ_1458,Commercial Buildings,Small,Slight Delay,Clear,Contractor_C,5_Handover,37.64,90.0,92.6,72.6
+PROJ_1459,Roads & Highways,Small,On-Time,Rainy,Contractor_B,2_Foundation,37.89,44.0,34.7,11.9
+PROJ_1460,Roads & Highways,Medium,Slight Delay,Extreme Heat,Contractor_B,4_MEP_Finishing,147.65,,71.8,48.4
+PROJ_1461,Roads & Highways,Small,On-Time,Clear,Contractor_D,2_Foundation,21.01,56.0,28.7,8.8
+PROJ_1462,Commercial Buildings,Medium,Slight Delay,Clear,Contractor_D,2_Foundation,74.27,113.0,30.8,8.0
+PROJ_1463,Metro & Rail,Small,On-Time,Extreme Heat,Contractor_C,2_Foundation,35.44,60.0,32.0,14.1
+PROJ_1464,Commercial Buildings,Medium,Slight Delay,Clear,Contractor_C,5_Handover,140.3,345.0,99.4,81.7
+PROJ_1465,Water Infrastructure,Small,Severe Delay,Rainy,Contractor_C,5_Handover,17.17,64.0,97.1,53.8
+PROJ_1466,Bridges & Flyovers,Medium,On-Time,Rainy,Contractor_A,4_MEP_Finishing,156.07,160.0,80.1,66.0
+PROJ_1467,Bridges & Flyovers,Medium,Severe Delay,Clear,Contractor_B,4_MEP_Finishing,118.82,106.0,86.4,54.2
+PROJ_1468,Water Infrastructure,Small,On-Time,Clear,Contractor_A,3_Structural,36.71,98.0,68.6,58.2
+PROJ_1469,Roads & Highways,Medium,Severe Delay,Clear,Contractor_B,5_Handover,175.77,,91.2,63.5
+PROJ_1470,Water Infrastructure,Medium,Slight Delay,Clear,Contractor_B,3_Structural,76.29,158.0,69.5,51.3
+PROJ_1471,Roads & Highways,Medium,Slight Delay,Clear,Contractor_A,3_Structural,53.85,149.0,43.5,23.3
+PROJ_1472,Water Infrastructure,Large,Slight Delay,Extreme Heat,Contractor_D,2_Foundation,667.68,757.0,36.5,13.0
+PROJ_1473,Roads & Highways,Medium,Severe Delay,Clear,Contractor_D,4_MEP_Finishing,141.84,317.0,76.3,44.1
+PROJ_1474,Water Infrastructure,Small,On-Time,Rainy,Contractor_C,4_MEP_Finishing,37.99,63.0,73.5,47.1
+PROJ_1475,Commercial Buildings,Small,On-Time,Clear,Contractor_B,3_Structural,43.53,55.0,53.8,33.8
+PROJ_1476,Water Infrastructure,Small,Slight Delay,Stormy,Contractor_D,1_Planning,42.11,76.0,16.4,5.0
+PROJ_1477,Roads & Highways,Medium,Severe Delay,Clear,Contractor_A,4_MEP_Finishing,194.18,105.0,78.2,54.2
+PROJ_1478,Commercial Buildings,Small,Slight Delay,Clear,Contractor_C,1_Planning,31.44,49.0,10.5,5.0
+PROJ_1479,Water Infrastructure,Medium,Slight Delay,Extreme Heat,Contractor_A,4_MEP_Finishing,123.79,234.0,82.4,62.6
+PROJ_1480,Commercial Buildings,Medium,On-Time,Extreme Heat,Contractor_C,5_Handover,110.88,298.0,99.1,85.0
+PROJ_1481,Commercial Buildings,Medium,Severe Delay,Clear,Contractor_A,3_Structural,73.9,159.0,52.1,21.2
+PROJ_1482,Commercial Buildings,Large,On-Time,Extreme Heat,Contractor_D,2_Foundation,543.99,798.0,25.1,8.2
+PROJ_1483,Commercial Buildings,Small,Slight Delay,Clear,Contractor_D,4_MEP_Finishing,21.08,47.0,79.4,45.7
+PROJ_1484,Commercial Buildings,Small,On-Time,Clear,Contractor_A,4_MEP_Finishing,46.85,33.0,71.9,57.5
+PROJ_1485,Commercial Buildings,Medium,On-Time,Clear,Contractor_B,3_Structural,137.9,117.0,64.8,52.5
+PROJ_1486,Water Infrastructure,Medium,On-Time,Clear,Contractor_D,5_Handover,139.33,349.0,98.4,88.6
+PROJ_1487,Roads & Highways,Medium,On-Time,Rainy,Contractor_B,1_Planning,103.88,114.0,15.9,5.0
+PROJ_1488,Bridges & Flyovers,Medium,Slight Delay,Clear,Contractor_D,3_Structural,58.75,306.0,51.2,24.9
+PROJ_1489,Water Infrastructure,Small,On-Time,Clear,Contractor_C,4_MEP_Finishing,11.27,42.0,86.2,65.3
+PROJ_1490,Water Infrastructure,Large,On-Time,Rainy,Contractor_B,5_Handover,454.58,734.0,96.0,81.1
+PROJ_1491,Commercial Buildings,Large,On-Time,Extreme Heat,Contractor_A,2_Foundation,251.65,906.0,36.7,30.1
+PROJ_1492,Commercial Buildings,Medium,On-Time,Clear,Contractor_A,4_MEP_Finishing,141.42,219.0,83.0,73.7
+PROJ_1493,Bridges & Flyovers,Small,On-Time,Rainy,Contractor_C,3_Structural,45.24,44.0,63.7,34.4
+PROJ_1494,Roads & Highways,Medium,On-Time,Clear,Contractor_B,3_Structural,182.55,119.0,58.4,42.3
+PROJ_1495,Commercial Buildings,Medium,Slight Delay,Extreme Heat,Contractor_B,1_Planning,149.2,163.0,14.1,5.0
+PROJ_1496,Bridges & Flyovers,Small,Slight Delay,Rainy,Contractor_B,5_Handover,18.45,64.0,99.6,71.1
+PROJ_1497,Commercial Buildings,Large,Slight Delay,Stormy,Contractor_C,2_Foundation,717.94,687.0,31.3,5.0
+PROJ_1498,Roads & Highways,Small,Slight Delay,Clear,Contractor_D,2_Foundation,45.44,64.0,32.5,5.0
+PROJ_1499,Water Infrastructure,Large,On-Time,Clear,Contractor_D,2_Foundation,318.8,962.0,25.2,8.7
+PROJ_1500,Water Infrastructure,Medium,Severe Delay,Clear,Contractor_B,5_Handover,160.88,263.0,96.6,74.3
+PROJ_1001,Bridges & Flyovers,Medium,On-Time,Rainy,Contractor_A,4_MEP_Finishing,151.23,188.0,78.7,65.3
+PROJ_1002,Water Infrastructure,Medium,Slight Delay,Clear,Contractor_A,4_MEP_Finishing,169.71,173.0,86.8,69.2
+PROJ_1003,Metro & Rail,Medium,Severe Delay,Clear,Contractor_D,3_Structural,88.32,263.0,64.6,27.3
+PROJ_1004,Commercial Buildings,Large,Slight Delay,Clear,Contractor_A,5_Handover,575.3,529.0,96.5,84.7
+PROJ_1005,Roads & Highways,Medium,Severe Delay,Clear,Contractor_A,2_Foundation,136.19,312.0,28.1,5.0
